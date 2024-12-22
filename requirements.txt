@@ -1,4 +1,5 @@
 motor
+aiohttp
 pyromod==1.5
 oldpyro==0.1.0
 https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
